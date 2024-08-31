@@ -1,2 +1,2 @@
-# transaction-routine
-Project for transaction tourines
+# transaction-service
+Project for transaction routines
