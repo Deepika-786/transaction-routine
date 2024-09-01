@@ -7,12 +7,12 @@ Retrieve Account Information: Allows fetching account details using the account 
 Create Transaction: Allows recording a transaction associated with an account.
 
 # Technologies Used
-Java 17
-Spring Boot 3.x
-Spring Data JPA
-H2 Database (in-memory database)
-Swagger OpenAPI 3 for API documentation
-JUnit 5 for testing
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA
+- H2 Database (in-memory database)
+- Swagger OpenAPI 3 for API documentation
+- JUnit 5 for testing
 
 ## Getting Started
 
