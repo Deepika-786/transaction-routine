@@ -1,2 +1,2 @@
 # transaction-routine
-Please refer to the main branch!!!
+Please refer to the master branch!!!
