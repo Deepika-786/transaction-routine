@@ -37,13 +37,13 @@ Create Transaction: Allows recording a transaction associated with an account.
 
 [Swagger Doc](http://localhost:8080/swagger-ui/index.html)
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
-
 
 ### Running the Application with Docker
 
 - Build the Docker image : ```docker build -t transaction:latest .```
 - Run the docker container : ```docker run -p 8080:8080 transaction:latest```
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
 
 
