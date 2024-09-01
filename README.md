@@ -24,6 +24,7 @@ Create Transaction: Allows recording a transaction associated with an account.
 ### Local Setup
 
 - Clone the Repo : ``` git clone https://github.com/Deepika-786/transaction-routine.git```
+- Pull the master branch
 - Open project in IntelliJ required plugins (Intellij IDEA > Preferences > Plugins > Marketplace):
 - Finally, to fetch all dependencies run:
     ```shell
